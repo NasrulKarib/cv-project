@@ -1,0 +1,117 @@
+body{
+    padding: 0px;
+    margin: 0px;   
+}
+.container{
+    max-width: 1000px;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: #B2E4DE;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color: #1FA7DA;
+    overflow: auto;
+}
+.container header img{
+    width:100px;
+    height: 120px;
+    border: 4px solid white;
+    border-radius: 50%;
+    float : left;
+}
+
+.naming{
+    padding: 10px;
+    float: left;
+}
+.contact{
+    float:right;
+    padding: 20px;
+}
+.contact h3{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.contact a{
+    text-decoration: none;
+    color: #1FA7DA;
+}
+.contact a:hover{
+    color:red;
+}
+.container header hr{
+    width:100%;
+    border: 2px solid black;
+    margin: 20px auto;
+}
+.container main h3{
+    display:inline;
+}
+.div-clear{
+    clear: both;
+}
+.main{
+    margin: 0px;
+   padding: 5px;
+}
+.personal {
+    float: right;
+    margin: 0 auto;
+}
+.left-div{
+    width:30%;
+    float: left;
+}
+.right-div{
+    width: 70%;
+    float:left;
+    margin-bottom: 5px;
+}
+
+.common-hr{
+    width: 100%;
+    border: 1px solid black;
+    border-bottom: none; 
+    margin: 20px auto;
+}
+.right-work{
+    width: 70%;
+    float:left; 
+}
+
+.h4{
+    margin: 0;
+}
+.paragraph{
+    margin: 0px;
+    color: black;
+}
+.list{
+    color: black;
+    padding-left: 16px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.rightleft-edu{
+    width: 40%;
+    float: left;
+}
+.rightright-edu{
+    width: 30%;
+    float: left;
+}
+.footer{
+    padding: 30px;
+    margin: 0 ;
+   
+    
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.footer a{
+    text-decoration: none;
+    color:white;
+    margin: 20px;
+}
+
